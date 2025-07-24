@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {},
+    "commands": []
+  },
+  "deploy": {
+    "startCommand": "bash start.sh"
+  }
+}
